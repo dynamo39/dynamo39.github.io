@@ -1,11 +1,8 @@
 ---
 layout: posts
 title:  "Hello World!"
-categories: 
-	- blog
-tags: 
-	- TIL 
-	- blog
+categories: blog
+tags: TIL blog
 ---
 
 ## 블로그 시작
