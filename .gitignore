@@ -29,6 +29,7 @@ _asset_bundler_cache
 _site
 /_site/
 _site/
+_drafts
 .jekyll
 Gemfile
 Gemfile.lock
